@@ -1,0 +1,39 @@
+.img{
+    width:40%;
+    height:100%;
+    margin-left:600px;
+}
+.container-fluid{
+
+    font-family:'Courier New', Courier, monospace;
+}
+.a{
+    margin-left:100px;
+}
+.container{
+    font-display: white;
+    border:10px solid #34c0eb;
+    background-color:lightgrey;
+    position: relative;
+
+}
+.row1{
+    display: flex;
+     justify-content: left;
+    
+    text-align: left;
+    font-style: oblique  ;
+    font-size:x-large;
+    
+}
+.row{
+    margin-top: 20px;
+   display: flex;
+     justify-content: left;
+     height: 20px;
+  width: 250px;
+    text-align:left;
+    font-size:large;
+    
+    
+}
